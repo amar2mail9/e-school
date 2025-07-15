@@ -1,8 +1,8 @@
 import React from "react";
 import Header from "./navbar/Header";
-import HeroSection01 from "./HeroSection.jsx";
-import Category from "./Category.jsx";
-import OnlineCourses from "./OnlineCourses.jsx";
+import HeroSection01 from "./HeroSection";
+import Category from "./Category";
+import OnlineCourses from "./OnlineCourses";
 import PaginationView from "./PaginationView";
 import Footer from "./Footer";
 
