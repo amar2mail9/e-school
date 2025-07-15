@@ -1,6 +1,6 @@
 import React from "react";
 
-function HeroSection01() {
+function HeroSection() {
   return (
     <section className="w-full bg-[#f0fff0] py-10 md:py-16 lg:py-[50px] px-4 sm:px-6 md:px-10 lg:px-[205px]">
       <div className="max-w-screen-xl mx-auto flex flex-col-reverse md:flex-row items-center justify-between gap-10">
@@ -42,4 +42,4 @@ function HeroSection01() {
   );
 }
 
-export default HeroSection01;
+export default HeroSection;
